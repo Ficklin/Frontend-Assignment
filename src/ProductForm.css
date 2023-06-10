@@ -1,0 +1,22 @@
+.formBody {
+    background-color: lightgray;
+}
+.productFormview {
+   padding: 3%;
+}
+.productForm-label {
+   font-weight: 500; 
+   font-size: large;
+   margin: 1%;
+}
+
+.productForm-control {
+    width: 90%;
+    margin: 1%;
+}
+
+.btnformat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.aboutBody {
+    margin: 0;
+    background-color: lightseagreen; 
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.aboutView {
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;   
+}
+

@@ -1,0 +1,29 @@
+.homeView {
+    background-color: lightseagreen;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.headerFormat {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-weight: bold;
+}
+
+.randomProductView {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2%;
+    border-radius: 16px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 1);
+
+}
+
+.textFormat {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+ }

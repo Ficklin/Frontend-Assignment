@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: lightseagreen;
+}
+
+.container {
+    background-color: lightseagreen;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   }
